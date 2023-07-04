@@ -1,0 +1,6 @@
+"./Drivers/Src/STM32F407XX_GPIO_DRIVER.o"
+"./Drivers/Src/STM32F4XX_SPI_DRIVER.o"
+"./Src/03LEDToggleButton_External.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f407vgtx.o"
