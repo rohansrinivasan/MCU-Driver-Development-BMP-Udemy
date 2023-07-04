@@ -5,6 +5,8 @@ This repository consists of my Embedded Driver Development and bare metal progra
 ## STM32F407G-DISC1
 ![image](https://github.com/rohansrinivasan/bare-metal-programming/assets/102278418/5d29cdc4-291a-4e73-ac29-d15519e94710)
 
+## IDE Used: STM32CubeIDE : https://www.st.com/en/development-tools/stm32cubeide.html
+
 ## Documentation:
 ### Reference Manual: [stm407-rm.pdf](https://github.com/rohansrinivasan/bare-metal-programming/files/11949697/stm407-rm.pdf)
 ### Datasheet: [32f407vg-discovery-kit-with-stm.pdf](https://github.com/rohansrinivasan/bare-metal-programming/files/11949723/32f407vg-discovery-kit-with-stm.pdf)
